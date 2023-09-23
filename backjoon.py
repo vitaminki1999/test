@@ -16,3 +16,4 @@ for i in a:
         temp=0
     ans+=temp
 print(ans)
+#헤헤
